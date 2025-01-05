@@ -1,6 +1,7 @@
 # BG Prediction using LSTM
-
 This project aims to predict blood glucose (BG) levels using Long Short-Term Memory (LSTM) neural networks. The dataset consists of BG readings from an actual patient with Type 1 Diabetes, collected using the Abbott Freestyle Libre Pro Flash GlucoMeter. The process involves data preprocessing, feature extraction, model training, and evaluation to accurately forecast BG levels.
+
+![Confidence Interval](conf_int.png)
 
 ## Process Overview
 
